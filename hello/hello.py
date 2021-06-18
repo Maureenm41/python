@@ -1,6 +1,10 @@
 msg = "Hello World"
 print(msg)
 
+msg
+msg.capitalize()
+msg.split()
+
 def foo(x):
     if x == 0:
         bar()

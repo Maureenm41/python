@@ -64,3 +64,15 @@ print(last_name, type(last_name))
 print(age, type(age))
 print(weigth, type(weigth))
 print(agent, type(agent))
+
+#Exercices
+
+#1 Create a variable name that contains the value "Alan Turing"
+
+first_name = "Alan"
+
+last_name = "Turing"
+
+mathematician = [first_name , last_name]
+
+print (mathematician)

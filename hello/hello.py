@@ -76,3 +76,5 @@ last_name = "Turing"
 mathematician = [first_name , last_name]
 
 print (mathematician)
+
+number = "42"

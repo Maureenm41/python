@@ -31,9 +31,9 @@ print(word)
 print(sentence)
 print(paragraph)
 
-2name = "James"
--name = "Bond"
-My name = "Bond"
+#2name = "James"
+#-name = "Bond"
+#My name = "Bond"
 
 name = "Bond"
 print("Your name is", name)

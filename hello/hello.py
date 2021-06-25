@@ -73,8 +73,8 @@ first_name = "Alan"
 
 last_name = "Turing"
 
-mathematician = [first_name , last_name]
+prof = [first_name , last_name]
 
-print (mathematician)
+print (prof)
 
 number = "42"

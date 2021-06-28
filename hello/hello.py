@@ -185,3 +185,13 @@ print(txt)
     a = 20
     a //= 3
     print(a)
+
+       # drill ex
+
+    age = 42
+    add = age + 10
+    print(add)
+
+    age = 42
+    age /= 7
+    print(divAge)

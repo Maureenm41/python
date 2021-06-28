@@ -138,3 +138,50 @@ print(txt)
 
     print(a<=b)
     print(b<=a)
+
+    # ex2 p3
+
+    a = 10
+    name = "Alan Turing"
+
+    print(a)
+    print(name)
+
+    a += 10
+    name += "is a good mathematician"
+
+    print(a)
+    print(name)
+
+    name += a # same as "name = name + a"
+    a += name # same as "a = a + name"
+
+    a = 20
+    a -= 10
+    print(a)
+
+    name -="Alan Turing"
+
+    a = 10
+    a *= 10
+    print(a)
+
+    text = "Alan Turing"
+    text *=10
+    print(text)
+
+    a = 100
+    a /= 10
+    print(text)
+
+    a = 100
+    a %=3
+    print(a)
+
+    a = 2
+    a **=3
+    print(a)
+
+    a = 20
+    a //= 3
+    print(a)

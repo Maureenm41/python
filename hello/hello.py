@@ -84,3 +84,32 @@ job = "mathematicien"
 
 txt = f"Hello, my name is {first_name} {last_name} and i am {age} years old and i am a {job}"
 print(txt)
+
+
+    # ex 2
+    a = 10
+    b = 20
+
+    add = a+b
+    print (add)
+
+    sub = b- a
+    print (sub)
+
+    multi = a * b
+
+    print(multi)
+
+    div = b / a
+    print(div)
+
+    floorDiv = b // a
+    print(floorDiv)
+
+    modulus = b % a
+    print("modulus :" , modulus)
+    modulus2 = 21 % 2
+    print("mudulus2 :", modulus2)
+
+    exp = a**2
+    print(exp)

@@ -77,4 +77,10 @@ prof = [first_name , last_name]
 
 print (prof)
 
-number = "42"
+age = "42"
+
+
+job = "mathematicien"
+
+txt = f"Hello, my name is {first_name} {last_name} and i am {age} years old and i am a {job}"
+print(txt)

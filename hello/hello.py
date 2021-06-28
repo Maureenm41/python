@@ -113,3 +113,28 @@ print(txt)
 
     exp = a**2
     print(exp)
+
+        # ex2 p2
+
+    a = 10
+    b = 20
+    print(a==b)
+    print(a==10)
+
+    print(a!=b)
+    print(a!=10)
+
+    #print(a<>b)
+    #print(a<>10)
+
+    print(a>b)
+    print(b>a)
+
+    print(a>=b)
+    print(b>=a)
+
+    print(a<b)
+    print(b<a)
+
+    print(a<=b)
+    print(b<=a)

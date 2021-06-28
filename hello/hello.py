@@ -86,112 +86,112 @@ txt = f"Hello, my name is {first_name} {last_name} and i am {age} years old and 
 print(txt)
 
 
-    # ex 2
-    a = 10
-    b = 20
+# ex 2
+a = 10
+b = 20
 
-    add = a+b
-    print (add)
+add = a+b
+print (add)
 
-    sub = b- a
-    print (sub)
+sub = b- a
+print (sub)
 
-    multi = a * b
+multi = a * b
 
-    print(multi)
+print(multi)
 
-    div = b / a
-    print(div)
+div = b / a
+print(div)
 
-    floorDiv = b // a
-    print(floorDiv)
+floorDiv = b // a
+print(floorDiv)
 
-    modulus = b % a
-    print("modulus :" , modulus)
-    modulus2 = 21 % 2
-    print("mudulus2 :", modulus2)
+modulus = b % a
+print("modulus :" , modulus)
+modulus2 = 21 % 2
+print("mudulus2 :", modulus2)
 
-    exp = a**2
-    print(exp)
+exp = a**2
+print(exp)
 
-        # ex2 p2
+# ex2 p2
 
-    a = 10
-    b = 20
-    print(a==b)
-    print(a==10)
+a = 10
+b = 20
+print(a==b)
+print(a==10)
 
-    print(a!=b)
-    print(a!=10)
+print(a!=b)
+print(a!=10)
 
-    #print(a<>b)
-    #print(a<>10)
+#print(a<>b)
+#print(a<>10)
 
-    print(a>b)
-    print(b>a)
+print(a>b)
+print(b>a)
 
-    print(a>=b)
-    print(b>=a)
+print(a>=b)
+print(b>=a)
 
-    print(a<b)
-    print(b<a)
+print(a<b)
+print(b<a)
 
-    print(a<=b)
-    print(b<=a)
+print(a<=b)
+print(b<=a)
 
-    # ex2 p3
+# ex2 p3
 
-    a = 10
-    name = "Alan Turing"
+a = 10
+name = "Alan Turing"
 
-    print(a)
-    print(name)
+print(a)
+print(name)
 
-    a += 10
-    name += "is a good mathematician"
+a += 10
+name += "is a good mathematician"
 
-    print(a)
-    print(name)
+print(a)
+print(name)
 
-    name += a # same as "name = name + a"
-    a += name # same as "a = a + name"
+name += a # same as "name = name + a"
+a += name # same as "a = a + name"
 
-    a = 20
-    a -= 10
-    print(a)
+a = 20
+a -= 10
+print(a)
 
-    name -="Alan Turing"
+name -="Alan Turing"
 
-    a = 10
-    a *= 10
-    print(a)
+a = 10
+a *= 10
+print(a)
 
-    text = "Alan Turing"
-    text *=10
-    print(text)
+text = "Alan Turing"
+text *=10
+print(text)
 
-    a = 100
-    a /= 10
-    print(text)
+a = 100
+a /= 10
+print(text)
 
-    a = 100
-    a %=3
-    print(a)
+a = 100
+a %=3
+print(a)
 
-    a = 2
-    a **=3
-    print(a)
+a = 2
+a **=3
+print(a)
 
-    a = 20
-    a //= 3
-    print(a)
+a = 20
+a //= 3
+print(a)
 
-       # drill ex
+# drill ex
 
-    age = 42
-    add = age + 10
-    print(add)
+age = 42
+add = age + 10
+print(add)
 
-    age = 42
-    age /= 7
-    print(divAge)
+age = 42
+age /= 7
+print(divAge)

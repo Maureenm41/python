@@ -153,14 +153,14 @@ name += "is a good mathematician"
 print(a)
 print(name)
 
-name += a # same as "name = name + a"
-a += name # same as "a = a + name"
+#name += a ; # same as "name = name + a"
+#a += name ; # same as "a = a + name"
 
 a = 20
 a -= 10
 print(a)
 
-name -="Alan Turing"
+#name -="Alan Turing"
 
 a = 10
 a *= 10
@@ -194,4 +194,4 @@ print(add)
 
 age = 42
 age /= 7
-print(divAge)
+print(age)

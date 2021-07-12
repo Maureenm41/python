@@ -194,4 +194,7 @@ print(add)
 
 age = 42
 age /= 7
-print(age)
+print(divAge)
+
+textDiv = age + "divided by 7 is equal" + age /= ;
+print(textDiv)
